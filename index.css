@@ -2,20 +2,11 @@
 	body{
 		font-family: Microsoft JhengHei;
 		background-color:#B6CF70;
+		font-size: 2vmin;
 	}
 	.container{
-		margin: 50px auto;
+		margin: 80px auto;
 
-	}
-	#spt{
-		text-align: center;
-	}
-	#fui{
-		transform:rotate(90deg);
-		margin-top: 90px;
-	}
-	#clic{
-		margin-top: 80px;
 	}
 	.footer{
 		color: white;
