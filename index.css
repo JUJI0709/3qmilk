@@ -2,7 +2,7 @@
 	body{
 		height: 100%;
 		font-family: Microsoft JhengHei;
-		background-color:#B6CF70;
+		background-color:#F6FEB3;
 		font-size: 2vmin;
 	}
 	.wrapper{
@@ -64,4 +64,3 @@
 	.toTop-arrow:focus {outline: none;}
 	
 }
-
